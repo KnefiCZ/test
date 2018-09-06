@@ -8,7 +8,7 @@
     <h1>Proměné</h1>
 <?php
 
-echo "Hello world";
+echo "Hello cyka";
 
  ?>
 
